@@ -8,6 +8,7 @@ Co-founders
 * Shyon Ziari
 * Annie Williams
 * Vedant Goyal
+* Abhinay Dommalapati
 
 Prereqs
 ---
